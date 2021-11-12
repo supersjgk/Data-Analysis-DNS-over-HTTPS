@@ -1,3 +1,5 @@
+Traffic has the following attributes:
+
 1. Source IP
 2. Destination IP
 3. Source Port
