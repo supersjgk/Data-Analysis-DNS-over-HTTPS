@@ -1,0 +1,35 @@
+1. Source IP
+2. Destination IP
+3. Source Port
+4. Destination Port
+5. Time Stamp
+6. Duration
+7. Flow Bytes Sent
+8. Flow Bytes Sent
+9. Flow Bytes Received
+10. Flow Received Rate
+11. Packet Length Variance
+12. Packet Length Standard Variance
+13. Packet Length Mean
+14. Packet Length Median
+15. Packet Length Mode
+16. Packet Length Skew from Median
+17. Packet Length Skew from Mode
+18. Packet Length Coefficient of Variance
+19. Packet Time Variance
+20. Packet Time Standard Deviation
+21. Packet Time Mean
+22. Packet Time Median
+23. Packet Time Mode
+24. Packet Time Skew from Median
+25. Packet Time Skew from Mode
+26. Packet Time Coefficient of Variance
+27. Response Time Variance
+28. Response Time Standard Deviation
+29. Response Time Mean
+30. Response Time Median
+31. Response Time Mode
+32. Response Time Skew from Median
+33. Response Time Skew from Mode
+34. Response Time Coefficient of Variance
+35. Label
