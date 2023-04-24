@@ -1,5 +1,3 @@
-# Data-Mining-DNS-over-HTTPS
-
 The main objective of this project is to deploy DoH within an application and capture benign as well as malicious DoH traffic as a two-layered approach to detect and characterize DoH traffic using time-series classifier.
 
 This project uses the following Machine Learning classification algorithms: Naive Bayes, KNN, Decision Tree, Random Forest, Gradient Boost.
